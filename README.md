@@ -16,14 +16,14 @@ I want to develop a machine learning model that can predict whether people have 
 
 ## :white_check_mark:  Dataset Information
 
-1. **Pregnancies**: 
-1. **Glucose**: 
-1. **Blood Pressure**: 
-1. **SkinThickness**:  
-1. **Insulin**: 
-1. **DiabetesPedigreeFunction**: 
-1. **Age**: 
-1. **Outcome**: 
+1. **Pregnancies**: Number of pregnancies
+1. **Glucose**: 2-hour plasma glucose concentration in the oral glucose tolerance test
+1. **Blood Pressure**: Blood Pressure (mm Hg)
+1. **SkinThickness**: Skin Thickness
+1. **Insulin**: 2-hour serum insulin (mu U/ml)
+1. **DiabetesPedigreeFunction**: Function, 2-hour plasma glucose concentration in the oral glucose tolerance test
+1. **Age**: Age (years)
+1. **Outcome**: Have the disease (1) or not (0)
 
 
 ## :art: Content
