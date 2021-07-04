@@ -1,4 +1,4 @@
-## Diabetes Prediction Project
+## :pill: Diabetes Prediction Project
 
 ![](https://www.homage.sg/wp-content/uploads/2021/02/bigstock-Word-Diabetes-And-Diabetic-Acc-361734181.jpg) 
 
